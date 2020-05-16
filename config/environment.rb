@@ -25,6 +25,7 @@ sql = <<-SQL
   hometown TEXT
   )
 SQL
+
  
 
 require_relative "../artist.rb"
